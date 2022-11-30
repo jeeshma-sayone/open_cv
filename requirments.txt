@@ -1,1 +1,7 @@
+fpdf==1.7.2
+matplotlib==3.6.2
+numpy==1.23.5
 opencv-python==4.6.0.66
+PyPDF2==2.11.2
+qrcode==7.3.1
+
